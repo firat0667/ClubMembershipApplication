@@ -1,11 +1,13 @@
 ﻿using System;
-namespace ClubMembershipApplication
+namespace ClubMembershipApplication.Views;
+
+class Program
 {
-    class Program
+    static void Main(string[] args) 
     {
-        static void Main(string[] args) 
-        {
-            Console.WriteLine("test");
-        }
+        IView mainView = Factory.GetMainViewObject();
+        mainView.RunView();
+
+        Console.ReadKey();
     }
 }

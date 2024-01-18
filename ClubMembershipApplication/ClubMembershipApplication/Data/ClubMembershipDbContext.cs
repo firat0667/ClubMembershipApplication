@@ -15,6 +15,7 @@ namespace ClubMembershipApplication.Data
             optionsBuilder.UseSqlite($"Data Source={AppDomain.CurrentDomain.BaseDirectory}ClubMembershipDb.db");
             base.OnConfiguring(optionsBuilder);
         }
+
         public DbSet<User> Users { get; set; }
     }
 

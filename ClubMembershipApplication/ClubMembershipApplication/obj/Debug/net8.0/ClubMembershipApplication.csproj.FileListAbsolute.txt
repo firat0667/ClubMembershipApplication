@@ -119,3 +119,6 @@ C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\Club
 C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\net8.0\ClubMembershipApplication.csproj.AssemblyReference.cache
 C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\net8.0\ClubMembershipApplication.csproj.CopyComplete
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\ClubMembershipApplication\obj\Debug\net8.0\ClubMembershipApplication.sourcelink.json
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\net8.0\FieldValidatorAPI.dll
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\ClubMembershipApplication\bin\Debug\net8.0\FieldValidatorAPI.pdb

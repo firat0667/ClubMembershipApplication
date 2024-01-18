@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ClubMembershipApplication.FieldValidators
 {
-    public class FieldConstant
+    public class FieldConstants
     {
         public enum UserRegistrationField
         {
-            EmailAdress,
+            EmailAddress,
             FirstName,
             LastName,
             Password,

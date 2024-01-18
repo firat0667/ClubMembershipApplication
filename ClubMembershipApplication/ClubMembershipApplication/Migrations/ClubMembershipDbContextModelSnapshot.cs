@@ -38,7 +38,11 @@ namespace ClubMembershipApplication.Migrations
                     b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("FistName")
+                    b.Property<string>("EmailAddress")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("FirstName")
                         .IsRequired()
                         .HasColumnType("TEXT");
 

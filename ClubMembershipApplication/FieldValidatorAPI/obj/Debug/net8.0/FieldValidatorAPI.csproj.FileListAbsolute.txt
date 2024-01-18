@@ -1,0 +1,12 @@
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.deps.json
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.dll
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\bin\Debug\net8.0\FieldValidatorAPI.pdb
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.AssemblyInfoInputs.cache
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.AssemblyInfo.cs
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.csproj.CoreCompileInputs.cache
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.sourcelink.json
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.dll
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\refint\FieldValidatorAPI.dll
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\FieldValidatorAPI.pdb
+C:\Users\firat\Documents\GitHub\FieldValidatorAPI\ClubMembershipApplication\FieldValidatorAPI\obj\Debug\net8.0\ref\FieldValidatorAPI.dll
